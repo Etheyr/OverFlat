@@ -1,0 +1,27 @@
+.overPlay{
+  background-color: #131315;
+  height: 100%;
+  width: 100%;
+}
+.ui.top.menu {
+	background-color: #1b1c1d;
+}
+.heroClass{
+	font-size: 5em;
+}
+
+#heroName{
+	color:grey;
+}
+#navBarItem{
+	font-family: Impact, fantasy;
+	color: #bab2b0;
+	font-size: 2em;
+}
+.ImgHeader{
+  width: 100%;
+}
+.ui.top.menu{
+  margin-top: -10px;
+  height: 5em;
+}
